@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:2000/format:webp/0*eIhVp0KXrXSSHORN.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:2000/format:webp/0*eIhVp0KXrXSSHORN.gif)
 <h1 align="center">Hi👋, I'm Ala Saidi </h1>
 <h3 align="center">A passionate frontend developer</h3>
 
