@@ -4,7 +4,7 @@
 
 🔭 Current Endeavors
 <hr height:10;border-width:0;color:gray;background-color:gray>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966")>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif")>
 - 🌱 I’m currently learning <strong>**Next.js**</strong>
 
 - 👨‍💻 All of my projects are available at my <a href="https://alasaidi.github.io/Portfolio/"> Portfolio </a>
