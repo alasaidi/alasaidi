@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋, I'm Ala Saidi </h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-🔭 Current Endeavors
+<h3 align="left">🔭 Current Endeavors</h3>
 <hr height:10;border-width:0;color:gray;background-color:gray>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif")>
 - 🌱 I’m currently learning <strong>**Next.js**</strong>
